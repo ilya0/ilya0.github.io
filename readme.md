@@ -1,19 +1,8 @@
-# This is a readme that you can read from me
-## H2 header testing
-###H3 header testing
+AngularJS Tutorial 1
+====================
 
+author: [Nick Kaye](http://www.nickkaye.com)
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+**NOTE:  We’re referencing all of our vendor dependencies (e.g. Bootstrap, jQuery, Angular) at outside URLs.   Therefore, it is necessary to host our site while we’re working on it.  Be sure we are viewing it in a browser with http:// -- not file://**
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-
-There are two ways to create links.
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+View the [live demo](http://airpair.github.io/demos/2014/09/T0021-airpair-angularjs-tutorial).
