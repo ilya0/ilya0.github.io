@@ -1,7 +1,5 @@
 Ilya Osovets Website
 
-
-AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
 Custom Tailored By Ilya Osovets
 
