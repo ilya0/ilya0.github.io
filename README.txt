@@ -45,3 +45,13 @@ https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 Demo Images:
 http://unsplash.com
 
+
+
+Edit:
+
+Philyonce frontpage - add technologies used
+Lord of War - add technologies
+change photo to make smaller
+
+Second paragraphy * and buisness experieince
+Third paragaphy * needs revising
