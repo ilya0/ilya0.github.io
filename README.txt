@@ -49,8 +49,8 @@ http://unsplash.com
 
 Edit:
 
-Philyonce frontpage - add technologies used
-Lord of War - add technologies
+done Philyonce frontpage - add technologies used
+done Lord of War - add technologies
 done change photo to make smaller
 
 Second paragraphy * and buisness experieince
