@@ -53,5 +53,5 @@ done Philyonce frontpage - add technologies used
 done Lord of War - add technologies
 done change photo to make smaller
 
-Second paragraphy * and buisness experieince
-Third paragaphy * needs revising
+done Second paragraphy * and buisness experieince
+done Third paragaphy * needs revising
