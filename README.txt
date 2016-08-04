@@ -51,7 +51,7 @@ Edit:
 
 Philyonce frontpage - add technologies used
 Lord of War - add technologies
-change photo to make smaller
+done change photo to make smaller
 
 Second paragraphy * and buisness experieince
 Third paragaphy * needs revising
