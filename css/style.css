@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fh5co-bio-photo img {
-  max-width: 100%;
+  max-width: 70%;
   -webkit-box-shadow: 6px 24px 61px -12px rgba(0, 0, 0, 0.49);
   -moz-box-shadow: 6px 24px 61px -12px rgba(0, 0, 0, 0.49);
   -ms-box-shadow: 6px 24px 61px -12px rgba(0, 0, 0, 0.49);
@@ -430,6 +430,8 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
   border-radius: 7px;
+  position: relative;
+  margin: 20%;
 }
 
 .fh5co-project {
@@ -602,6 +604,8 @@ h1, h2, h3, h4, h5, h6 {
   padding: 7em 0;
   position: relative;
   color: rgba(255, 255, 255, 0.5);
+    padding-right: 60px;
+
 }
 #fh5co-main small,
 .fh5co-section small {
@@ -837,6 +841,8 @@ h1, h2, h3, h4, h5, h6 {
   zoom: 1;
   *display: inline;
 }
+
+/*circle toggle to new format*/
 .style-toggle .fh5co-circle {
   height: 20px;
   width: 20px;
