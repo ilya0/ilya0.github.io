@@ -46,12 +46,6 @@ Demo Images:
 http://unsplash.com
 
 
+To do list:
+Need to fix project alignment issues
 
-Edit:
-
-done Philyonce frontpage - add technologies used
-done Lord of War - add technologies
-done change photo to make smaller
-
-done Second paragraphy * and buisness experieince
-done Third paragaphy * needs revising
