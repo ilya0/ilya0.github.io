@@ -50,3 +50,5 @@ To do list:
 Need to fix project alignment issues
 need to fix main page
 Try to build new website
+add more stuff
+
