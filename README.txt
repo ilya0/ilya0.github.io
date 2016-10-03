@@ -48,7 +48,7 @@ http://unsplash.com
 
 To do list:
 Need to fix project alignment issues
-need to fix main page
-Try to build new website
-add more stuff
+Need to change the text
+Need to add the bookmark app
+Need to update the whole page to make a one pager
 
