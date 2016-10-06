@@ -392,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .btn-next a span {
   display: block;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 255);
   font-size: 18px;
   letter-spacing: 1px;
   font-weight: 300;
@@ -405,7 +405,7 @@ h1, h2, h3, h4, h5, h6 {
   -o-transition: 0.5s;
   transition: 0.5s;
   font-size: 20px;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 255);
   color: #ffab00;
 }
 @media screen and (max-width: 480px) {
@@ -657,7 +657,7 @@ h1, h2, h3, h4, h5, h6 {
 .fh5co-project-detail {
   padding: 7em 0;
   position: relative;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255, 255);
 }
 .fh5co-project-detail:before {
   content: "";
